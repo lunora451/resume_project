@@ -31,7 +31,7 @@ la mise a jour a besoin de 1min environ pour build et update dans la parti non a
 stack HTML/CSS/PHP
 
 admin part:
-[lunoraStart.eu/admin/login](https://lunorastart.eu/admin/login)
+[lunoraStart.eu/admin/login](https://lunorastart.eu/admin/login.php)
 pour voir l'update:
 https://lunorastart.eu/
 
